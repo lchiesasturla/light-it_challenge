@@ -19,7 +19,7 @@ const CategoryList = ({title, category, setDetail}: IProps): JSX.Element => {
           type='button'
           key={`subCategory-${idx}`}
           className='my-1 text-gray-600'
-          onClick={() => {setDetail(subCategory); console.log(subCategory)}}
+          onClick={() => setDetail(subCategory)}
         >
           {subCategory.name}
         </ButtonWithChevron>
