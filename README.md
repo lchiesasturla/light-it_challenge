@@ -2,9 +2,9 @@
 
 Stack used:
 
-**React** as main framework with typescript
-**scss** and **tailwind** for styling
-**react-query** for data fetching
+- **React** as main framework with typescript
+- **scss** and **tailwind** for styling
+- **react-query** for data fetching
 
 ## Available Scripts
 
